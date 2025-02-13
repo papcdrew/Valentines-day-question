@@ -10,9 +10,9 @@ function showDateDetails() {
         <div style='text-align:center; margin-top:100px;'>
             <h1> 🎉 See you on our special date! 🎉 </h1>
             <img src='luanpic2.png' alt='Celebration' style='width:300px;'>
-            <p><strong>Time:</strong> 7:00 PM</p>
+            <p><strong>Time:</strong> 8:00 PM</p>
             <p><strong>Date:</strong> February 14, 2025</p>
-            <p><strong>Place:</strong> Romantic Restaurant 🌹</p>
+            <p><strong>Place:</strong> Ericahlicious 🌹</p>
         </div>
     `;
 }
